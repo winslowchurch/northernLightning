@@ -1,5 +1,5 @@
 # northernLightning
-Particle Motion Art made with Processing
+Particle Motion Art made with Processing ⚡️🌌
 
 Instructions
 ------------
