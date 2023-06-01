@@ -14,4 +14,4 @@ Examples
 
 ![](https://github.com/winslowchurch/northernLightning/blob/main/2.jpg)
 
-[![Watch the video](https://github.com/winslowchurch/northernLightning/blob/main/3.jpg)](https://github.com/winslowchurch/northernLightning/blob/main/3.1.mp4)
+![](https://github.com/winslowchurch/northernLightning/blob/main/3.jpg)
